@@ -1,0 +1,19 @@
+{
+  "name": "guess-num",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/random.js",
+  "scripts": {
+    "test": "./index.js 100000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/open-node/guess-num.git"
+  },
+  "author": "Redstone Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-node/guess-num/issues"
+  },
+  "homepage": "https://github.com/open-node/guess-num#readme"
+}
